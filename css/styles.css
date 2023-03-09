@@ -1,0 +1,33 @@
+a {
+    color: antiquewhite;
+}
+header {
+    background-color: black;
+}
+h1 {
+    color:black
+}
+nav a {    
+    color: antiquewhite;
+}
+.view {
+    border-radius: 2px;
+    background-color: red    
+}
+.view {
+    color:antiquewhite
+}
+.sale {   
+    border-radius: 2px;
+    background-color: green        
+}
+.sale {
+    color: antiquewhite
+}
+#third_section {
+    background-color: grey
+}
+footer {
+    background-color: black;
+    color: antiquewhite;
+}
